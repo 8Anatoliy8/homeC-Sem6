@@ -1,0 +1,15 @@
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\bin\Debug\net8.0\Task2.exe
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\bin\Debug\net8.0\Task2.dll
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.dll
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Study\4.Introduction_to_languages\HomeworkSem6\Task2\obj\Debug\net8.0\ref\Task2.dll
